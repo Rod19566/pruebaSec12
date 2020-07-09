@@ -2,8 +2,7 @@
 
 - Esta es una lísta con items
 - Este es el segundo item de la lista
-
+- y el tercero...
 
 1. Lista numerada 
 99. Número tres
-3. Número después del tres, pero no es tres
