@@ -5,5 +5,4 @@
 - y el tercero...
 
 1. Lista numerada 
-7. Número dos
 99. Número tres
